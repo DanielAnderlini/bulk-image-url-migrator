@@ -225,3 +225,4 @@ This project demonstrates the kind of automation often requested by e-commerce o
 - Add structured JSON logs
 - Add unit tests for validators and image detection
 - Add Docker packaging for repeatable deployments
+"# bulk-image-url-migrator" 
